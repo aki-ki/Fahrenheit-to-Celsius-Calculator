@@ -1,0 +1,31 @@
+h1,
+h2,
+h6,
+p,
+h3,
+button,
+input {
+  font-family: "Sour Gummy", sans-serif;
+}
+#formula {
+  width: 500px;
+}
+body {
+  padding: 30px;
+  width: 800px;
+  background-color: white;
+  margin: auto;
+  border-radius: 50px;
+}
+html {
+  background-color: rgb(17, 28, 78);
+}
+#formula {
+  text-align: center;
+}
+#a {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
